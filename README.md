@@ -54,27 +54,6 @@ V2Ray Core
 
 ---
 
-## 📁 Project Structure
-
-php-v2ray-api-client/
-│
-├── config/
-│ └── v2ray.php
-│
-├── src/
-│ ├── Http/
-│ │ └── HttpClient.php
-│ ├── Services/
-│ │ └── V2rayApiService.php
-│ └── App.php
-│
-├── public/
-│ └── index.php
-│
-├── README.md
-└── .gitignore
-
-
 ### Why this structure?
 - 🔹 Separation of concerns  
 - 🔹 Easy testing and maintenance  
