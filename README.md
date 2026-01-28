@@ -44,13 +44,6 @@ V2Ray Core
 
 ---
 
-### Why this structure?
-- 🔹 Separation of concerns  
-- 🔹 Easy testing and maintenance  
-- 🔹 Scalable for future features  
-- 🔹 Inspired by real-world backend systems  
-
----
 
 ## ⚙️ Configuration
 
