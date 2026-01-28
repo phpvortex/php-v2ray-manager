@@ -22,16 +22,6 @@ It focuses purely on **backend-side management, automation, and API communicatio
 
 ---
 
-## 🎯 Project Goals
-
-- ✅ Provide a real and executable PHP project  
-- ✅ Follow clean architecture principles  
-- ✅ Be easy to understand and extend  
-- ✅ Serve as a reference template for similar projects  
-- ✅ Suitable for GitHub portfolio and job applications  
-
----
-
 ## 🧠 How It Works (Concept)
 
 PHP Application
