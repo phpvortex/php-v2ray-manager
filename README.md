@@ -1,4 +1,4 @@
-# 🚀 PHP V2Ray API Client
+# 🚀 PHP V2Ray API Manager
 
 <p align="center">
   <b>A professional PHP backend project for managing V2Ray panels via HTTP APIs</b>
